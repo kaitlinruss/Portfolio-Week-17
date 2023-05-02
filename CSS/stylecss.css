@@ -31,7 +31,10 @@
     font-family: 'Cedarville Cursive', cursive;
     font-size: 32px;
     color: #222345;
-    border:none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 5px solid #F5F0F6;
     cursor: pointer;
     width: 209px;
     
@@ -45,7 +48,10 @@
     font-family: 'Cedarville Cursive', cursive;
     font-size: 32px;
     color: #222345;
-    border:none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 5px solid #F5F0F6;
     cursor: pointer;
     width: 209px;
 }
@@ -58,7 +64,10 @@
     font-family: 'Cedarville Cursive', cursive;
     font-size: 32px;
     color: #222345;
-    border:none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 5px solid #F5F0F6;
     cursor: pointer;
     width: 209px;
 }
